@@ -70,5 +70,3 @@ def solve():
     except ValueError:
         print('Ви ввели щось не те')
         solve()
-
-print_abs_odd()
